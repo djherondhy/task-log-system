@@ -1,0 +1,22 @@
+.card{
+    width: 100%;
+    padding:10px;
+    position: relative;
+    background: #333634;
+    color: #fff;
+}
+.card-title{
+    padding: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.card .card-status{
+    position: absolute;
+    width: 100px;
+    right: 0;
+    top: 0;
+    margin: 10px;
+}
+.card-text{
+    padding: 40px;
+}
