@@ -2,6 +2,9 @@
 
 ## :bookmark_tabs: Description
 > TaskLog CRUD de tarefas com ReactJs e TypeScript, que permite adicionar, finalizar, visualizar e excluir tasks. 
+> 
+![imagem 2](https://user-images.githubusercontent.com/35778998/115447816-e9ae5b00-a1e6-11eb-84e1-d84453525b2b.PNG)
+
 
 ## :hammer: Tecnologias Utilizadas
 * ReactJS
