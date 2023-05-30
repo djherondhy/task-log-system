@@ -1,4 +1,4 @@
-# :floppy_disk: Task Log com ReactJs e Type script :floppy_disk:
+# :floppy_disk: Task Log com ReactJs e Typescript :floppy_disk:
 
 ## :bookmark_tabs: Description
 > TaskLog CRUD de tarefas com ReactJs e TypeScript, que permite adicionar, finalizar, visualizar e excluir tasks. 
